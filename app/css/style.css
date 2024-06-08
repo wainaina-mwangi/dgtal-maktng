@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#hero{
+    background:url(../assets/hero-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#hero2{
+    background:url(../assets/hero-1.jpg);
+}
